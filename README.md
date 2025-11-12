@@ -1,6 +1,6 @@
 <!-- PERFIL README: lizsalazar21 -->
 <h1 align="center">¡Hi! I'm Liz 👋</h1>
-<p align="center"> 🎓 Computer Science Student · Instituto Tecnologico de Costa Rica
+<p align="center"> 🎓 Computer Science Student · Instituto Tecnologico de Costa Rica </p>
 - 🔭 Actualmente trabajo en **pipelines de datos (CRISP‑DM)** con DuckDB/Pandas y **backend** con FastAPI, 
 
 ---
@@ -19,6 +19,4 @@
 
 > 💌 **Contacto**:
 - ✉️ lizsalazar2105@gmail.com
-
-<!-- Fin -->
 
