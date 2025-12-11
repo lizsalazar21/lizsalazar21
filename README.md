@@ -42,5 +42,8 @@ I love learning new tools and I'm constantly exploring new technologies.
   <a href="mailto:lizsalazar2105@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  </p>
+  <a href="https://www.linkedin.com/in/liz-salazar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
