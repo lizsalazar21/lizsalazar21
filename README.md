@@ -4,11 +4,10 @@
 <br>
 
 ### 👩‍💻 About Me
-
-I like learning new tools and I'm constantly exploring new technologies.
+- 🔭 I am a Computer Engineering student passionate about software development, with a strong focus on Backend, Data Analysis, and Machine Learning.
+- 🚀 My goal is to grow as a professional and I am currently seeking a **professional internship** to contribute and continue learning.
 
 <br>
-
 
 ### 🛠️ Tech Stack
 
