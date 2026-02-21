@@ -39,8 +39,8 @@ I like learning new tools and I'm constantly exploring new technologies.
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&count_private=true&bg_color=00000000&title_color=FF79C6&text_color=F8F8F2"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=dracula&exclude_repo=Gis_Transporte&hide_border=true&border_radius=4&bg_color=00000000&title_color=FF79C6&text_color=F8F8F2" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lizsalazar21&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&count_private=true&bg_color=00000000&title_color=FF79C6&text_color=F8F8F2"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lizsalazar21&layout=compact&theme=dracula&exclude_repo=Gis_Transporte&hide_border=true&border_radius=4&bg_color=00000000&title_color=FF79C6&text_color=F8F8F2" />
 </p>
 
 <br>
