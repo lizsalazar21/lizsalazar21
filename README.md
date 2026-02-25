@@ -35,14 +35,6 @@
 
 </div>
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="github-metrics.svg" alt="Métricas avanzadas de GitHub" />
-</p>
-
-<br>
-
 ### 📫 Reach me at:
 
 <p align="center">
